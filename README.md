@@ -1,2 +1,3 @@
 # hello-world
-交流最新的技术
+I like Java, my job is Java.
+I want to communicate with you more deeply about Java.
